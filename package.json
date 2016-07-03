@@ -1,0 +1,17 @@
+{
+  "name": "task-counter-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kadash <arturkudel@gmail.com> (kaadash.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "podio-js": "^1.4.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
